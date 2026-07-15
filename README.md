@@ -13,6 +13,7 @@ the tangle, and clear the board. Simple rules, deep strategy, no timer.
 
 - Hundreds of hand-tight, fully-packed puzzles that always have a solution
 - Difficulty that climbs from a gentle Easy start to a huge, deeply tangled Master board
+- Picture Packs — solve colourful arrow puzzles shaped like hearts, stars, animals and more
 - Satisfying slide-off animation and a soft piano soundtrack you can turn on or off
 - Zoomable, pannable board so the biggest levels stay easy to read
 - Light and dark themes; progress and preferences are saved automatically
@@ -20,9 +21,12 @@ the tangle, and clear the board. Simple rules, deep strategy, no timer.
 
 ## Screenshots
 
-![Unpick a tangled board](screenshots/01-play.png)
-![Huge, densely packed Master boards](screenshots/02-master.png)
-![Level select with saved progress](screenshots/03-levels.png)
+![Home screen with level progress and Picture Pack collections](screenshots/01-home.png)
+![Unpick a tangled board of colourful arrows](screenshots/02-play.png)
+![Huge, densely packed Master boards](screenshots/03-master.png)
+![Picture Packs — arrows arranged into shapes to solve and reveal](screenshots/04-picture-packs.png)
+![Easy on the eyes in dark mode](screenshots/05-dark-mode.png)
+![Level select with saved progress](screenshots/06-levels.png)
 
 ## Links
 
